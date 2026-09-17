@@ -9,7 +9,6 @@ Python was used for data cleaning and analysis, and Power BI was used for visual
 - Pandas
 - Matplotlib
 - Excel
-- Power BI
 
 ## Dataset
 - Raw sales data was cleaned using Python
