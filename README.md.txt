@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project analyzes retail sales data to identify revenue trends, seasonal patterns, and top-performing products.  
-Python was used for data cleaning and analysis, and Power BI was used for visualization.
+Python was used for data cleaning and analysis.
 
 ## Tools & Technologies
 - Python
